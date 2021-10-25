@@ -1,20 +1,4 @@
-# MPPI Covariance Steering
+# Constrained Covariance Steering Based tube-MPPI
 
-So far, we have only implemented MPPI for linear dynamics. 
-
-First set up the virtual environment:
-
-`python3 -m venv env`
-
-`source env/bin/activate`
-
-`pip install --upgrade pip`
-
-`pip install -r requirements.txt`
-
-To run the code simply run:
-
-`source env/bin/activate`
-
-`python testMPPI.py -paramfile=params.txt`
+This repository contains the code to generate the results from: [Constrained Covariance Steering based Tube-MPPI](https://arxiv.org/pdf/2110.07744.pdf)
 
