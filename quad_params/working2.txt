@@ -1,0 +1,11 @@
+Natural System Noise Parameter, mu : 0.001
+Control Sampling Covariance Parameter, nu : 0.1
+Number of Samples, K : 100
+MPC Horizon, T : 40
+Number of Simulation Timesteps, iteration : 600
+Discretization time-step, dt : 0.05
+Control Cost Parameter, Lambda : 0.1
+Random Number Generator, seed : 100
+Q Multiplier : 10.0
+Desired Position, pdes : (8.0, 8.0)
+Additional Noise, Wk : 0.0

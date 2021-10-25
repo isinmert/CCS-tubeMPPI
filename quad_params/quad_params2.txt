@@ -1,0 +1,12 @@
+Natural System Noise Parameter, mu : 0.1
+Control Sampling Covariance Parameter, nu : 1.0
+Number of Samples, K : 100
+MPC Horizon, T : 25
+Number of Simulation Timesteps, iteration : 400
+Discretization time-step, dt : 0.02
+Control Cost Parameter, Lambda : 0.1
+Random Number Generator, seed : 100
+Q Multiplier : 1.0
+Desired Position, pdes : (8.0, 8.0)
+Additional Noise, Wk : 0.0
+Obstacle File : 'quad_params/obstacles/obs2.npy'
